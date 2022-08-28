@@ -1,0 +1,429 @@
+#logo{
+    position: absolute;
+    left: 3.04%;
+    right: 79.76%;
+    top: 0.44%;
+    bottom: 98.55%;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 49px;
+    text-align: center;
+    
+    color: #F39B16;
+    text-align: left;
+
+}
+
+#hinv{
+    color: #FFFFFF;
+    background-color: #F39B16;
+}
+hr{
+    width :132.9%;
+    margin: 0px;
+}
+
+img{
+    margin-top: 20px;
+    max-width: 100%;
+    height: 250px;;
+}
+
+#wetalk{
+
+width: 500px;
+height: 104px;
+left: 30px;
+top: 100px;
+margin-left: 40px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 49px;
+
+color: #F39B16;
+}
+
+#increase{
+width: 641px;
+height: 96px;
+left: 87px;
+top: 376px;
+margin-left: 48px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+
+color: #4B3E3E;
+}
+
+#learn{
+    margin-left: 50px;
+    color: #FFFFFF;
+    background-color: #F39B16;
+    
+}
+
+#link{
+    color:black;
+}
+a:hover {
+    color: hotpink;
+}
+
+#navbarG{
+background: rgba(243, 155, 22, 0.17);
+}
+
+#Alittle{
+position: absolute;
+width: 100%;
+max-width: 100%;
+height:400px;
+left: 42px;
+top: 500px;
+
+background: #F5F5F5;
+    border: 1px solid #F5F5F5;}
+
+body{
+    margin:32;
+    padding: 0;
+    max-width: 100%;
+    
+}
+
+#AshContainer{
+position: absolute;
+width: 50%;
+height: 385px;
+left: 657px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+float: left;
+
+color: #4B3E3E;
+}
+
+#gist{
+    
+width: 209px;
+height: 70px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 132.9%;
+
+/* or 32px */
+
+color: #4B3E3E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+#next{
+
+width: 250px;
+height: 70px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 132.9%;
+margin-top: 170px;
+margin-left: 32px;
+/* or 32px */
+
+color: #4B3E3E;
+
+
+/* Inside auto layout */
+}
+
+#healthBe{
+    margin-top: 415px;
+    margin-left: 32px;
+}
+#buttonC{
+    background-color: white; 
+    color: #F39B16;
+    padding: 0px 0px;
+    text-align:center;
+    text-decoration: none;
+    font-size: 16px;
+    width: 300px;
+    height: 54px;
+    margin-left: 12px;
+    margin-top: 15px;
+    align-items: center;
+
+}
+
+#health{
+    width: 1000px;
+    height: 29px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #F39B16;
+    
+    
+}
+
+#fede{
+ 
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #4B3E3E;
+}
+
+#he{
+    width: 100px;
+height: 17px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+/* identical to box height */
+
+color: #4B3E3E;
+}
+#how{
+    width: 400px;
+    height: 29px;
+    margin-top: 32px;
+    margin-left: 38px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #F39B16;
+}
+
+#healthe{
+    margin-top: 32px;
+    margin-left: 32px;
+}
+#latest{
+margin-bottom: 45px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+margin-top: 15px;
+color: #4B3E3E;
+
+}
+
+#Most{
+    width: 300px;
+    height: 29px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    margin-left: 48px;
+    margin-top: 15px;
+    color: #F39B16;
+
+    
+    
+} 
+.card{
+    margin-top:15px;
+    width:300px;
+}
+
+.card,p{
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #4B3E3E;
+}
+
+#image1 {
+    position: relative;
+    top: 0;
+    left: 10;
+    width: 300px;
+   
+  }
+#image2 {
+    position: absolute;
+    top: 242px;
+    left: 935px;
+   
+
+    position: absolute;
+/*width: 400px;
+height: 300px;*/
+left: 935px;
+top: 121px;
+/*background: url(.jpg), #FFFFFF;*/
+box-shadow: -8px 4px 48px rgba(0, 0, 0, 0.25);
+border-radius: 23px;
+  }
+
+ #book{ 
+  height: 29px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  margin-top: 20px;
+  margin-left: 24px;
+  color: #F39B16;
+  
+  
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;}
+
+  #Testimonial{
+
+width: 141px;
+height: 29px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+margin-left: 32px;
+color: #F39B16;
+  }
+
+#TestimonialCon{
+    background: #E2E2E2;
+    margin-left: 42px;
+}
+
+#DailyF{
+    width: 435px;
+height: 112px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+margin-left: 32px;
+color: #FFFFFF;
+
+
+}
+
+#company{
+
+width: 224px;
+height: 44px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+#ListItem{
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+}
+
+#Vin{
+    color:#F39B16 ;
+    background-color:  #FFFFFF;
+    height: 40px;
+}
+#Thousand{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+
+/* identical to box height */
+
+color: #F39B16;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #0b0101;
+    color: rgb(14, 8, 8);
+    margin-left: 40px;
+  }
+
+#LearnmoreHeadings{
+    color: #F39B16;
+}
+
+#Choosing{
+position: absolute;
+width: 1000px;
+height: 29px;
+left: 200px;
+top: 80px;
+text-align: center;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
